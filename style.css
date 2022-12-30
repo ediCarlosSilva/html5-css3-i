@@ -227,6 +227,12 @@ td, th {
 
 .imagem-beneficios {
     width: 60%;
+    transition: 400ms;
+    box-shadow: 10px 10px 10px 0 #000;
+}
+
+.imagem-beneficios:hover {
+    opacity: 0.3;
 }
 
 .itens {
