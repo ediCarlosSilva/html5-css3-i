@@ -260,8 +260,13 @@ td, th {
         position: static;
     }
 
-    .lista-beneficios, .imagem-beneficios {
+    .lista-beneficios, {
         width: 100%;
+    }
+
+    .imagem-beneficios {
+        width: 90%;
+        margin: 0 5%;
     }
 
     .lista-beneficios {
